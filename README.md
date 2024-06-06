@@ -1,1 +1,3 @@
-# przetwarzanie-obraz-w
+# Przetwarzanie obrazów
+
+Repozytorium na zajęcia z przewarzania obrazów
